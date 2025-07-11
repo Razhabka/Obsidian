@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "e2abeaa89ac37284",
+    "type": "split",
+    "children": [
+      {
+        "id": "470029600f93245c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce49820335cb524c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Домашний сервер/Пароли.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Пароли"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "191c04096555eb63",
+    "type": "split",
+    "children": [
+      {
+        "id": "560abf0ce9ff46a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e54970275dcd8405",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "c03369dca82a3dee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "8661dc82ff7d287b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 378.5026054382324
+  },
+  "right": {
+    "id": "5bc8ed0940f81a4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9586326043e862dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca13035b1872cf3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aston Стажировка/Подготовка к срезу №1/5. Ответы на вопросы(Тестовая документации).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 5. Ответы на вопросы(Тестовая документации)"
+            }
+          },
+          {
+            "id": "54abd3ee476d07d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aston Стажировка/Подготовка к срезу №7/2. Ответы на вопросы(Инициализация бразера).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 2. Ответы на вопросы(Инициализация бразера)"
+            }
+          },
+          {
+            "id": "2b74d6f45d2adbf8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "edec2324606a175c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Aston Стажировка/Подготовка к срезу №7/2. Ответы на вопросы(Инициализация бразера).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура 2. Ответы на вопросы(Инициализация бразера)"
+            }
+          },
+          {
+            "id": "8bf8174985425255",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ce49820335cb524c",
+  "lastOpenFiles": [
+    "Домашний сервер/Подключение к БД монго.md",
+    "Домашний сервер/GПароли.md",
+    "Домашний сервер/Сервер.md",
+    "Aston Стажировка/Подготовка к срезу №4/5. Ответы на вопросы (виды join-ов).md",
+    "Aston Стажировка/Подготовка к срезу №4/6. Ответы на вопросы(Мобильное тестирование).md",
+    "Aston Стажировка/Подготовка к срезу №4/3. Ответы на вопросы(DML, DDL, DCL, TCL).md",
+    "Aston Стажировка/Подготовка к срезу №4/2. Ответы на вопросы(Индексы, транзакции).md",
+    "Aston Стажировка/Подготовка к срезу №4/1. Ответы на вопросы(Основные понятия БД).md",
+    "Aston Стажировка/Подготовка к срезу №1/2. Ответы на вопросы(Виды моделей и методологий).md",
+    "Aston Стажировка/Подготовка к срезу №1/3. Ответы на вопросы(SCRUM, Kanban).md",
+    "Aston Стажировка/Мусор/Дока с фидбэком.md",
+    "Aston Стажировка/Мусор/Вопросы с МосБиржи.md",
+    "Aston Стажировка/Легенда/Вопросы.md",
+    "Aston Стажировка/Легенда/Сама легенда.md",
+    "Aston Стажировка/Легенда/Вопросы по мобилкам в CV.md",
+    "Aston Стажировка/Подготовка к срезу №3/1. Ответы на вопросы(Интеграционное тестирование).md",
+    "Aston Стажировка/Подготовка к срезу №6/1. Ответы на вопросы(Иструменты (фреймофорки) автоматизации).md",
+    "Aston Стажировка/Подготовка к срезу №5/1. Ответы на вопросы(Основы теории по автоматизации).md",
+    "Aston Стажировка/Подготовка к срезу №10/2. Ответы на вопросы(Java).md",
+    "Aston Стажировка/Cucumber/Без названия.md",
+    "Aston Стажировка/Подготовка к срезу №10/Еще ответы на вопросы.md",
+    "Aston Стажировка/Подготовка к срезу №10/1. Ответы на вопросы(Практики разработки ПО).md",
+    "Aston Стажировка/Подготовка к срезу №9/1. Ответы на вопросы(Архитектура фреймворка).md",
+    "Aston Стажировка/Подготовка к срезу №9/3. Ответы на вопросы(Автоматизация тестирования мобилок).md",
+    "Aston Стажировка/Подготовка к срезу №9/2. Ответы на вопросы(Репортеры и логеры).md",
+    "Aston Стажировка/Мусор/Djcghjc.md",
+    "Aston Стажировка/Cucumber",
+    "Книги/Библиотека/Чарльз Петцольд - Код_ тайный язык информатики-Манн, Иванов и Фербер (2019).pdf",
+    "Cache/Pasted image 20250623171356.png",
+    "Cache/Pasted image 20250623171028.png",
+    "Cache/Pasted image 20250623171332.png",
+    "Cache/Pasted image 20250623170922.png",
+    "Книги/Библиотека",
+    "Cache/{00F7F9B1-E13A-4FA4-BE3E-1686BC3EEF8C}.png",
+    "Cache/{8A75B859-2639-4544-A43A-7808264F7AFB}.png",
+    "Cache/Pasted image 20250619115927.png",
+    "Cache/Pasted image 20250619115906.png",
+    "Cache/Pasted image 20250619115156.png",
+    "Aston Стажировка/Нагрузочное тестирование",
+    "Aston Стажировка/Легенда",
+    "Aston Стажировка/Мусор",
+    "Cache/ErrorIerarh.png",
+    "Aston Стажировка/Подготовка к срезу №10",
+    "Aston Стажировка/Live Coding",
+    "Aston Стажировка/Подготовка к срезу №9",
+    "Aston Стажировка/Подготовка к срезу №8",
+    "Без названия.canvas"
+  ]
+}

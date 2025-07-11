@@ -1,0 +1,1 @@
+Документация для создание трейдеров и их размещение на карте - https://traderpluswiki.notion.site/How-to-make-static-object-works-with-TraderPlus-d913e762a02844e0a3d6a555cd4e7509
